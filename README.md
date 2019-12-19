@@ -1,5 +1,4 @@
 # hello-world
-Chou's github repository
 
 Sup fam!
 
